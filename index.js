@@ -1,5 +1,3 @@
-
-
     // TCP server
     var net = require('net');
     let ENQ = String.fromCharCode(0x05);
